@@ -13,10 +13,10 @@ import retrofit2.http.Header;
 import retrofit2.http.POST;
 
 public interface ApiService {
-    @POST("login")
+    @POST("endpoint") //use your api end point
     Call<LoginResponse> login(@Body LoginRequest loginRequest);
 
 
-    @GET("transactions")
+    @GET("endpoint")
     Call<List<TransactionEntity>> getTransactions(@Header("Authorization") String token);
 }
