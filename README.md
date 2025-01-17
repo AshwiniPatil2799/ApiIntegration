@@ -16,6 +16,10 @@ The Transaction Tracker App is an Android application designed to authenticate u
 ## Setup Instructions
 Follow these steps to set up the project on your local machine:
 
+
+https://github.com/user-attachments/assets/b66a532b-9fe1-4114-aa30-89b7aa42da61
+
+
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/AshwiniPatil2799/ApiIntegration/new/maste-app.git
